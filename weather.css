@@ -1,0 +1,27 @@
+body {
+    background: #eeedec;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;    
+}
+
+.container {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    max-width: 300px;
+    margin: auto;
+    margin-top: 0%;
+}
+
+.form-control {
+    width: 380px;
+    height: 40px;
+    margin: auto;
+}
+.card {
+    text-transform: uppercase;
+    margin:0;
+    background:ghostwhite;
+    
+}
